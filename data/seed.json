@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Midnight City", "category": "Synth-Pop", "note": "M83 · Ein funkelnder Soundtrack für späte Abende.", "done": false, "createdAt": "2026-10-19T08:00:00.000Z" },
+  { "id": 2, "title": "Dreams", "category": "Rock", "note": "Fleetwood Mac · Ein zeitloser Klassiker mit entspanntem Groove.", "done": false, "createdAt": "2026-10-19T08:05:00.000Z" },
+  { "id": 3, "title": "Blinding Lights", "category": "Pop", "note": "The Weeknd · Energiegeladener 80er-Sound für unterwegs.", "done": false, "createdAt": "2026-10-19T08:10:00.000Z" },
+  { "id": 4, "title": "Feel Good Inc.", "category": "Alternative", "note": "Gorillaz · Markanter Bass und ein unverwechselbarer Beat.", "done": false, "createdAt": "2026-10-19T08:15:00.000Z" },
+  { "id": 5, "title": "Levitating", "category": "Pop", "note": "Dua Lipa · Ein tanzbarer Song für die nächste Playlist.", "done": false, "createdAt": "2026-10-19T08:20:00.000Z" },
+  { "id": 6, "title": "Take Five", "category": "Jazz", "note": "The Dave Brubeck Quartet · Entspannter Jazz mit besonderem Rhythmus.", "done": false, "createdAt": "2026-10-19T08:25:00.000Z" }
+]
