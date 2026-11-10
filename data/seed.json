@@ -4,5 +4,8 @@
   { "id": 3, "title": "Blinding Lights", "category": "Pop", "note": "The Weeknd · Energiegeladener 80er-Sound für unterwegs.", "done": false, "createdAt": "2026-10-19T08:10:00.000Z" },
   { "id": 4, "title": "Feel Good Inc.", "category": "Alternative", "note": "Gorillaz · Markanter Bass und ein unverwechselbarer Beat.", "done": false, "createdAt": "2026-10-19T08:15:00.000Z" },
   { "id": 5, "title": "Levitating", "category": "Pop", "note": "Dua Lipa · Ein tanzbarer Song für die nächste Playlist.", "done": false, "createdAt": "2026-10-19T08:20:00.000Z" },
-  { "id": 6, "title": "Take Five", "category": "Jazz", "note": "The Dave Brubeck Quartet · Entspannter Jazz mit besonderem Rhythmus.", "done": false, "createdAt": "2026-10-19T08:25:00.000Z" }
+  { "id": 6, "title": "Take Five", "category": "Jazz", "note": "The Dave Brubeck Quartet · Entspannter Jazz mit besonderem Rhythmus.", "done": false, "createdAt": "2026-10-19T08:25:00.000Z" },
+  { "id": 7, "title": "Electric Feel", "category": "Indie-Pop", "note": "MGMT · Ein verspielter Synth-Sound mit viel Energie.", "done": false, "createdAt": "2026-10-19T08:30:00.000Z" },
+  { "id": 8, "title": "Dog Days Are Over", "category": "Indie-Rock", "note": "Florence + The Machine · Ein kraftvoller Song mit euphorischem Aufbau.", "done": false, "createdAt": "2026-10-19T08:35:00.000Z" },
+  { "id": 9, "title": "Get Lucky", "category": "Disco-Pop", "note": "Daft Punk · Funkige Gitarren und ein lässiger Groove.", "done": false, "createdAt": "2026-10-19T08:40:00.000Z" }
 ]
