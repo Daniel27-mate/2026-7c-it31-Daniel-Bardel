@@ -7,12 +7,15 @@ export const itemInput = z.object({
   title: z.string().trim().min(1, 'Titel fehlt').max(80),
   category: z.string().trim().min(1).max(40).default('Allgemein'),
   note: z.string().trim().max(500).default(''),
+  // Bewertung des Songs: ganze Zahl von 1 bis 5 Sternen (optional)
+  rating: z.number().int().min(1, 'Mindestens 1 Stern').max(5, 'Höchstens 5 Sterne').optional(),
 })
 
 export const itemPatch = z.object({
   title: z.string().trim().min(1).max(80).optional(),
   category: z.string().trim().min(1).max(40).optional(),
   note: z.string().trim().max(500).optional(),
+  rating: z.number().int().min(1).max(5).optional(),
   done: z.boolean().optional(),
 })
 
@@ -24,6 +27,7 @@ export interface Item {
   title: string
   category: string
   note: string
+  rating?: number
   done: boolean
   createdAt: string
 }
